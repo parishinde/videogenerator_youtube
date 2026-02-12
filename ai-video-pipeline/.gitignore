@@ -1,8 +1,0 @@
-.env
-__pycache__/
-*.pyc
-visuals/
-temp/
-*.mp4
-*.mp3
-file_list.txt
