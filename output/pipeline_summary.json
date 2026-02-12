@@ -1,0 +1,14 @@
+{
+  "topic": "How Artifical intellegence affect our day to day life",
+  "video": "outputs/How_Artifical_intellegence_affect_our_day_to_day_life_final.mp4",
+  "script": "outputs/script.txt",
+  "voiceover": "outputs/voiceover.mp3",
+  "thumbnail": "outputs/thumbnail.jpg",
+  "metadata": "outputs/metadata.json",
+  "subtitles": {
+    "srt": "outputs/subtitles.srt",
+    "vtt": "outputs/subtitles.vtt"
+  },
+  "youtube_url": null,
+  "runtime_seconds": 67.38
+}
